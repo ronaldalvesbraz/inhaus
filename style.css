@@ -1,0 +1,61 @@
+body{
+ 
+    margin: 0 auto;
+}
+
+.cabeça a{
+    
+    color: rgb(59, 42, 42);
+    text-decoration: none;
+    font-size: larger;
+    
+    
+}
+
+
+
+
+
+
+.cabeça {
+    
+    text-align: center;
+    background-color: rgb(226, 170, 15);
+}
+#imagen {
+    height: 18vh;
+    text-align: center;
+}
+.quem-somos{
+    text-align: center;
+    
+color: rgb(218, 142, 28);
+
+}
+.quem-somos p{
+    
+    color: black;
+}
+#video{
+
+
+    text-align: center;
+}
+.oque-texto{
+    margin: 100px;
+
+}
+.oque-texto h3{
+    color: rgb(221, 154, 30);
+
+
+
+}
+.oque-texto p{
+
+    
+}
+.oque-texto ul{
+color: rgb(221, 154, 30);
+   
+}
